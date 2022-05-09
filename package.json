@@ -1,0 +1,22 @@
+{
+  "name": "jsonmyntradata",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdarshKhandare/jsonMyntraData.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdarshKhandare/jsonMyntraData/issues"
+  },
+  "homepage": "https://github.com/AdarshKhandare/jsonMyntraData#readme",
+  "description": "",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
